@@ -27,7 +27,7 @@ replay_pid*
 *.swp
 
 # The structures directory, which should be a soft link
-src/structures
+# src/structures
 
 # Don't let VScode pollute the common repo
 .vscode
