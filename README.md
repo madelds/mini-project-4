@@ -1,15 +1,6 @@
-# csc207-2023fa-associative-array-tests
+Introduction: This is Mini Project 4 ("Associative Arrays"), written by Madel Sibal & Sam Rebelsky.
 
-Tests for our AssociativeArray class (Mini-Project 4).
+Description: The following submission contains a basic implementation of Associative Arrays with keys of type K and values of type V.
+AssociativeArray contains the following methods: set, get, hasKey, remove, size, and toString.
 
-Suggested strategy:
-
-* Clone this repo.
-* Make a soft link to your `structures` directory in the `src` directory.  
-  For example,
-
-        ln -s /home/username/CSC207/MP4/src/structures structures
-
-* Open this repository in VSCode.
-* Cross your fingers.
-* Run the tests.
+Resources: Oracle Help Center was used in order to figure out basic Java syntax and techniques. In addition, the reading on Unit Testing was a big help in completing the project as testing was an essential part of this project. Lastly, Professor Sam helped by providing the starter code and by clarifying the instructions of the projects during class and through his website. I consulted with Jonathan Wang and Maria Rodriguez to discuss the implementation of certain procedures.
